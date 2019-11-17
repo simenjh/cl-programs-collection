@@ -1,9 +1,6 @@
-# pong
-### _Your Name <your.name@example.com>_
+# Pong in Common Lisp
+### 
 
-This is a project to do ... something.
+This basic Pong game is implemented using trivial-gamekit.
 
-## License
-
-Specify license here
 
